@@ -1,5 +1,5 @@
 # CV: Ekaterina Lukoyanova
-## Front-end developer (intern)
+## Front-end developer (intern/junior)
 ![Avatar](https://sun9-43.userapi.com/impg/2pHiWGODbZq-zKjHaMFA-9Jb81Vq1f7t03TT6Q/kXMlMmGbOYY.jpg?size=604x453&quality=96&sign=074ca1bbe230b542c9836cd68d249c1a&type=album "Pic of me")
 
 ## About me
