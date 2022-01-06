@@ -31,8 +31,7 @@ a:visited {
 }
 
 table {
-  display: block;
-  margin: 0 auto;
+  margin: auto;
   border-collapse: collapse;
   box-sizing: border-box;
   margin-top: 1vmax;
